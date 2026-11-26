@@ -75,4 +75,4 @@ The trained model files are not included; retrain with the commands above.
 
 ## AI assistance
 
-Parts of the code were written with the help of an AI system (Claude, Anthropic). The team ran all experiments and checked the results.]
+Parts of the code were written with the help of an AI system (Claude, Anthropic). The team ran all experiments and checked the results.

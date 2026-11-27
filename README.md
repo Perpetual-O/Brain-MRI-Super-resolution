@@ -71,7 +71,7 @@ The trained model files are not included; retrain with the commands above.
 
 ## Team
 
-[Perpetual Ogedegbe, Ahenkan Yeboah, Styve Yvan Chieudjui Wongoue]
+Perpetual Ogedegbe, Ahenkan Yeboah, Styve Yvan Chieudjui Wongoue
 
 ## AI assistance
 
